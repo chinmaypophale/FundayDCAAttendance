@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489630828829",
+    "firebase_url": "https://funday-dca-attendance.firebaseio.com",
+    "project_id": "funday-dca-attendance",
+    "storage_bucket": "funday-dca-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489630828829:android:a1403a06d57d0fcc",
+        "android_client_info": {
+          "package_name": "com.dexterlabs.fundaydcaattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489630828829-e6hua063q7llvj0i0hj963pdevp34b9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dexterlabs.fundaydcaattendance",
+            "certificate_hash": "7eaf0b529a6bc4f9b84310ef9dff4670cd56b822"
+          }
+        },
+        {
+          "client_id": "489630828829-s4c7d6uf9hpacucmvgagecqe36ohovhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFGCmPo9zztxT2O7R1kXxsY-rRMjE4O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489630828829-s4c7d6uf9hpacucmvgagecqe36ohovhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
